@@ -30,3 +30,11 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 2. Atreus
     1. Dano mágico
     2. Longa distância
+
+### Imagem local
+
+![Rosto do Kratos](../imgs/Kratos.jpeg)
+
+### Imagem Externa
+
+![Rosto do Atreus](https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png/revision/latest?cb=20180510140038&path-prefix=pt-br)
