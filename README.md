@@ -55,13 +55,8 @@ function media(a, b){
 
 ## Lista de tarefas
 
-#### Tarefas pendentes:
-
 - [ ] Ambiente/Espaço físico
 - [ ] Dublagem
-- [ ] Desenvolvimento do personagem: Kratos
-
-#### Tarefas concluídas:
-
 - [x] Trilha sonora
+- [ ] Desenvolvimento do personagem: Kratos
 - [x] Desenvolvimento do personagem: Atreus
