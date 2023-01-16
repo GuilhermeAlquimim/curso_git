@@ -61,7 +61,7 @@ function media(a, b){
 - [ ] Dublagem
 - [ ] Desenvolvimento do personagem: Kratos
 
-### Tarefas concluídas:
+#### Tarefas concluídas:
 
 - [x] Trilha sonora
 - [x] Desenvolvimento do personagem: Atreus
