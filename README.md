@@ -57,9 +57,9 @@ function media(a, b){
 
 #### Tarefas pendentes:
 
-- [] Ambiente/Espaço físico
-- [] Dublagem
-- [] Desenvolvimento do personagem: Kratos
+- [ ] Ambiente/Espaço físico
+- [ ] Dublagem
+- [ ] Desenvolvimento do personagem: Kratos
 
 ### Tarefas concluídas:
 
