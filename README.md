@@ -44,3 +44,11 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 * [Google](https://www.google.com)
 * [Professor Matheus Battist](https://www.github.com/matheusbattisti)
 * Fallen: [![Imagem do Fallen](https://forbes.com.br/wp-content/uploads/2019/01/fallen-768x509.jpg)](https://www.youtube.com/fallenINSIDER)
+
+## Código da função: média
+
+```JavaScript
+function media(a, b){
+    return (a + b) /2;
+}
+```
