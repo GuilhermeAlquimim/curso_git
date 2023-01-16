@@ -4,8 +4,8 @@ Acompanhe alguns tópicos a seguir:
 
 ## Funcionalidades da página
 
-Função 1
-Função 2
+Função 1 <br>
+Função 2 <br>
 Função 3
 
 ###### Problemas conhecidos
