@@ -38,3 +38,9 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 ### Imagem Externa
 
 ![Rosto do Atreus](https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png/revision/latest?cb=20180510140038&path-prefix=pt-br)
+
+### Parcerias 
+
+* [Google](https://www.google.com)
+* [Professor Matheus Battist](https://www.github.com/matheusbattist)
+* [Fallen ![Imagem do Fallen](https://forbes.com.br/wp-content/uploads/2019/01/fallen-768x509.jpg)] (https://www.youtube.com/fallenINSIDER)
