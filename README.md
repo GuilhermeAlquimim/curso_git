@@ -33,7 +33,7 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 
 ### Imagem local
 
-![Rosto do Kratos](../imgs/Kratos.jpeg)
+![Rosto do Kratos](../imgs/Kratos)
 
 ### Imagem Externa
 
