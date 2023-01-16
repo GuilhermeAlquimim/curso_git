@@ -37,13 +37,13 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 
 ### Imagem Externa
 
-![Rosto do Atreus](https://static.wikia.nocookie.net/godofwar/images/b/be/Atreus.png/revision/latest?cb=20180510140038&path-prefix=pt-br)
+![Rosto do Atreus](https://i.redd.it/rlkooetzy5r91.jpg)
 
 ### Parcerias 
 
 * [Google](https://www.google.com)
 * [Professor Matheus Battist](https://www.github.com/matheusbattisti)
-* Fallen: [![Imagem do Fallen](https://forbes.com.br/wp-content/uploads/2019/01/fallen-768x509.jpg)](https://www.youtube.com/fallenINSIDER)
+* Fallen: [![Imagem do Fallen](https://64.media.tumblr.com/b257924565102bca43c7def38a6d9af8/1366ccf2ce2fbec0-a9/s400x600/ecb0b34ceb52accdb65c8e6a7baefed2e359ad16.png)](https://www.instagram.com/fallen/)
 
 ## Código da função: média
 
