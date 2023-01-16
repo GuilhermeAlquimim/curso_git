@@ -6,7 +6,7 @@ _Acompanhe alguns **tópicos** a seguir:_
 
 **Função 1** (Negrito com asteriscos)<br> 
 __Função 2__ (Negrito com underlines) <br>
-_**Função 3**_ (Negrito e Itálico com 1 asterisco e 1 underline)
+_**Função 3**_ (Negrito e Itálico com  1 underline e 2 asteriscos)
 
 ###### Problemas conhecidos
 
