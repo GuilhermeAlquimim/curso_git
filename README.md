@@ -22,7 +22,7 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 * Trilha sonora
 * Dublagem
 
-### Personagens a serem criados
+## Personagens a serem desenvolvidos
 
 1. Kratos
     1. Dano físico
@@ -52,3 +52,16 @@ function media(a, b){
     return (a + b) /2;
 }
 ```
+
+## Lista de tarefas
+
+#### Tarefas pendentes:
+
+- [] Ambiente/Espaço físico
+- [] Dublagem
+- [] Desenvolvimento do personagem: Kratos
+
+### Tarefas concluídas:
+
+- [x] Trilha sonora
+- [x] Desenvolvimento do personagem: Atreus
