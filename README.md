@@ -17,6 +17,8 @@ _**Problema 3**_ (Itálico e negrito com 1 underline e 2 astesriscos)
 ### Pendências a serem desenvolvidas no game
 
 * Ambiente/Espaço físico
+    * Calcular área limite
+    * Verificar por bugs de cenário
 * Trilha sonora
 * Dublagem
 
